@@ -1,0 +1,39 @@
+5769 [main] INFO  Task3.BookingService - Вызвана функция записи со временем 1986-05-01T17:30, 1986-05-01T09:00
+5805 [main] ERROR Task3.BookingService - Время занято
+1548 [main] INFO  Task3.BookingService - Вызвана функция записи со временем 1986-05-01T17:30, 1986-05-01T19:00
+1550 [main] ERROR Task3.BookingService - Время занято
+4376 [main] INFO  Task3.BookingServiceTest - Запущен тест проверки невалидного времени 2019-05-15T12:15 2019-05-15T13:15 для записи
+4592 [main] DEBUG Task3.BookingServiceTest - Мокирование поведения для метода book()
+3098 [main] INFO  Task3.BookingServiceTest - Запущен тест проверки валидного времени 2019-05-01T17:30 2019-05-01T19:00 для записи
+3192 [main] DEBUG Task3.BookingServiceTest - Мокирование поведения для метода book()
+4979 [main] INFO  Task3.BookingServiceTest - Запущен тест проверки невалидного времени 2019-05-01T17:30 2019-05-01T19:00 для записи
+5018 [main] DEBUG Task3.BookingServiceTest - Мокирование поведения для метода book()
+2425 [main] INFO  Task3.BookingServiceTest - Запущен тест проверки валидного времени 2019-05-01T17:30 2019-05-01T19:00 для записи
+2486 [main] DEBUG Task3.BookingServiceTest - Мокирование поведения для метода book()
+4953 [main] INFO  Task3.BookingServiceTest - Запущен тест проверки валидного времени 2019-05-01T17:30 2019-05-01T19:00 для записи
+5392 [main] DEBUG Task3.BookingServiceTest - Мокирование поведения для метода book()
+1148 [main] INFO  Task3.BookingServiceTest - Запущен тест проверки валидного времени 2019-05-01T17:30 2019-05-01T19:00 для записи
+1150 [main] DEBUG Task3.BookingServiceTest - Мокирование поведения для метода book()
+1220 [main] INFO  Task3.BookingServiceTest - Запущен тест проверки невалидного времени 2019-05-01T17:30 2019-05-01T19:00 для записи
+1220 [main] DEBUG Task3.BookingServiceTest - Мокирование поведения для метода book()
+1559 [main] INFO  Task3.BookingService - Вызвана запись со временем 1986-05-01T17:30, 1986-05-01T19:00
+1579 [main] ERROR Task3.BookingService - Это время занято
+1943 [main] INFO  Task3.BookingService - Вызвана запись со временем 1986-05-01T17:30, 1986-05-01T17:30
+2049 [main] ERROR Task3.BookingService - Это время занято
+1752 [main] INFO  Task3.BookingService - Вызвана запись со временем 1986-05-01T17:30, 1986-05-02T17:30
+1753 [main] ERROR Task3.BookingService - Это время занято
+1363 [main] INFO  Task3.BookingService - Вызвана запись со временем 1986-05-01T17:30, 1986-05-02T17:30
+1402 [main] ERROR Task3.BookingService - Это время занято
+1925 [main] INFO  Task3.BookingServiceTest - Тест проверки валидного времени запущен 2019-05-01T17:30 2019-05-01T17:30 для записи
+1965 [main] DEBUG Task3.BookingServiceTest - Мокирование для метода book()
+13141 [main] INFO  Task3.BookingServiceTest - Тест проверки валидного времени запущен 2019-05-01T17:30 2019-05-02T17:30 для записи
+13144 [main] DEBUG Task3.BookingServiceTest - Мокирование для метода book()
+13708 [main] INFO  Task3.BookingServiceTest - Тест успешно пройден
+13756 [main] INFO  Task3.BookingServiceTest - Вызов метода с параметрами
+1515 [main] INFO  Task3.BookingServiceTest - Запущен тест проверки невалидного времени 2019-05-01T17:30 2019-05-01T19:00 для записи
+1518 [main] DEBUG Task3.BookingServiceTest - Мокирование поведения для метода book()
+1671 [main] INFO  Task3.BookingServiceTest - Тест успешно пройден
+263  [main] INFO  Task3.BookingService - Вызвана запись со временем 1986-05-01T17:30, 1986-05-02T17:30
+265  [main] ERROR Task3.BookingService - Это время занято
+251  [main] INFO  Task3.BookingService - Вызвана запись со временем 1986-05-01T17:30, 1986-05-02T17:30
+254  [main] ERROR Task3.BookingService - Это время занято
